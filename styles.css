@@ -17,10 +17,6 @@ ul{
 
 }
 
-.figcaption-container
-
-
-
 
 .container-navigation{
     display: flex;
@@ -51,6 +47,7 @@ header {
 }
 .figcaption-container{
     font-family: cursive;
+    text-align: center;
 }
 
 
