@@ -93,7 +93,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 
 }
 
@@ -102,6 +102,9 @@ header {
 .section-three {
     background-color: lightcoral;
     height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -116,6 +119,9 @@ iframe {
 .section-four {
     background-color: darkslateblue;
     height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 
