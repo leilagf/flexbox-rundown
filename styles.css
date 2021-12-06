@@ -17,6 +17,11 @@ ul{
 
 }
 
+.figcaption-container
+
+
+
+
 .container-navigation{
     display: flex;
     flex-wrap: wrap;
@@ -43,6 +48,9 @@ header {
     padding: 10px 0px 10px 0px;
     
     
+}
+.figcaption-container{
+    font-family: cursive;
 }
 
 
