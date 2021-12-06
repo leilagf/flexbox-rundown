@@ -11,6 +11,17 @@ h1{
     text-align: center;
 }
 
+
+
+/* header sytles */
+
+header {
+    background-color: hotpink;
+    padding: 10px 0px 10px 0px;
+    
+    
+}
+
 ul{ 
     list-style: none;
     padding: 5px;
@@ -20,15 +31,6 @@ ul{
 .container-navigation{
     display: flex;
     flex-wrap: wrap;
-}
-
-/* header sytles */
-
-header {
-    background-color: hotpink;
-    padding: 10px 0px 10px 0px;
-    
-    
 }
 
 
