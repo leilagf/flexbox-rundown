@@ -30,10 +30,18 @@ ul{
 
 button{font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
-    margin: 0px 3px;
+    margin: 2px;
     border: 1px solid limegreen;
-    border-radius: 10px;
-    background-color: aliceblue;}
+    font-size: large;
+    border-radius: 5px;
+    transition-duration: 4s;
+}
+
+button:hover{
+    background-color: limegreen;
+    color: white;
+    
+}
 
 
 
