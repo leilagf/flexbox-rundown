@@ -45,10 +45,7 @@ header {
     
     
 }
-.figcaption-container{
-    font-family: cursive;
-    text-align: center;
-}
+
 
 
 
@@ -130,12 +127,24 @@ iframe {
     
 }
 
+.figcaption-container{
+    font-family: cursive;
+    text-align: center;
+}
+
 /* section 5 media items */
 
 .section-five {
     background-color: goldenrod;
     height: 1400px;
 
+}
+.media-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 15px 25px 15px 15px;
+    
 }
 
 
