@@ -11,6 +11,17 @@ h1{
     text-align: center;
 }
 
+ul{ 
+    list-style-type: none;
+    padding: 5px;
+
+}
+
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 
 
 /* header sytles */
@@ -36,16 +47,6 @@ header {
     display: flex;
 }
 
-ul{ 
-    list-style-type: none;
-    padding: 5px;
-
-}
-
-.container-navigation{
-    display: flex;
-    flex-wrap: wrap;
-}
 
 .box1 {
     background-color: skyblue;
