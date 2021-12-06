@@ -14,7 +14,12 @@ h1{
 ul{ 
     list-style: none;
     padding: 5px;
-    
+
+}
+
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 /* header sytles */
