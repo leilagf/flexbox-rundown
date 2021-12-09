@@ -174,6 +174,20 @@ iframe {
     font-size: 20px;
 }
 
+.button-one-section{
+    background-color: cornflowerblue;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.button-top-img{
+    border: 3px solid white;
+    border-radius: 10px;
+    box-shadow: 15px 15px 25px grey;
+    width: 70%;
+}
 /*footer goes here */
 footer{
     background-color: rebeccapurple;
