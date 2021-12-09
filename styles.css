@@ -174,7 +174,7 @@ iframe {
     font-size: 20px;
 }
 
-.button-one-section{
+.flexgrow-one-section{
     background-color: cornflowerblue;
     padding: 20px 0px;
     display: flex;
@@ -182,7 +182,7 @@ iframe {
 
 }
 
-.button-top-img{
+.flexgrow-top-img{
     border: 3px solid white;
     border-radius: 10px;
     box-shadow: 15px 15px 25px grey;
